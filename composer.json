@@ -1,0 +1,16 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Hex\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Sidorov",
+            "email": "nikita.sidorov.27@yandex.ru"
+        }
+    ],
+    "require": {}
+}
